@@ -1,4 +1,5 @@
 new test
 add a new line 
 add a second line
-update third line 
+
+deleted third line 
